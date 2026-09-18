@@ -1,0 +1,8 @@
+{
+  "records_checked": 440,
+  "test_configurations": 20,
+  "neural_checkpoints": 342,
+  "max_ate_recomputation_delta_m": 2.842170943040401e-14,
+  "original_files_checked": 62,
+  "changed_original_files": []
+}

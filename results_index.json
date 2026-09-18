@@ -1,0 +1,34 @@
+[
+  {
+    "file": "experiments/direction1_20260917/dense_cross/results.json",
+    "metric_records": 54
+  },
+  {
+    "file": "experiments/direction1_20260917/dense_future/results.json",
+    "metric_records": 27
+  },
+  {
+    "file": "experiments/direction1_20260917/future_diagnostic/results.json",
+    "metric_records": 36
+  },
+  {
+    "file": "experiments/direction1_20260917/results.json",
+    "metric_records": 90
+  },
+  {
+    "file": "experiments/direction1_gate_20260917/quality_gate/results.json",
+    "metric_records": 112
+  },
+  {
+    "file": "experiments/direction1_gate_20260917/repeat_check/results.json",
+    "metric_records": 18
+  },
+  {
+    "file": "experiments/direction1_gate_20260917/results.json",
+    "metric_records": 112
+  },
+  {
+    "file": "experiments/direction1_recipe2_20260917/results.json",
+    "metric_records": 112
+  }
+]

@@ -66,4 +66,3 @@ to its original authors (see NOTICE and source headers). ncps is an external
 dependency; its implementation is not bundled. Raw EuRoC datasets are not
 redistributed. See https://github.com/UZ-SLAMLab/ORB_SLAM3 and
 https://github.com/mlech26l/ncps for upstream projects.
-

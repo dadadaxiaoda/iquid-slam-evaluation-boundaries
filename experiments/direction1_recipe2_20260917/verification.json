@@ -1,0 +1,455 @@
+{
+  "preintegration_checks": "stationary,constant acceleration,constant angular velocity passed",
+  "temporal_purge_check": "passed",
+  "predictions": [
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Zero_-1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Zero_-1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Zero_-1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Zero_-1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_-1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_-1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_-1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_-1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_shrunk_-1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_shrunk_-1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_shrunk_-1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_shrunk_-1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_Ridge_residual_-1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_Ridge_residual_-1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_Ridge_residual_-1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/Physical_Ridge_residual_-1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_direct_gated_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_time_residual_gated_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/CfC_fixed_residual_gated_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_0_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_0_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_0_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_0_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_1_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_1_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_1_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_1_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_2_V103_future_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_2_V103_future_drop50.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_2_V202_independent_nominal.npz",
+      "max_metric_difference": 0.0
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_recipe2_20260917/GRU_residual_gated_2_V202_independent_drop50.npz",
+      "max_metric_difference": 0.0
+    }
+  ],
+  "unchanged_inputs": 20
+}

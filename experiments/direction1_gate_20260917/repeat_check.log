@@ -1,0 +1,22 @@
+REPEAT_REPLAY_START
+REPEAT_REPLAY_DONE 118.59429788589478 1943
+DATA V103 {"n": 1924, "scale": 1.4272146407413098, "gravity_norm": 9.81, "rows": {"nominal": 1499, "drop50": 378}, "rms_m": 0.04849876090884209}
+{"model": "Zero", "seed": -1, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06548613757230867, "gain_pct": 0.0, "coverage_pct": 0.0}
+{"model": "Always", "seed": -1, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06410250218733499, "gain_pct": 2.1128676026218485, "coverage_pct": 100.0}
+{"model": "FixedHalf", "seed": -1, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06205403164734731, "gain_pct": 5.240965572556011, "coverage_pct": 100.0}
+{"model": "GRU", "seed": 0, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06205888947568007, "gain_pct": 5.233547470782341, "coverage_pct": 100.0}
+{"model": "GRU", "seed": 1, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06211255488576303, "gain_pct": 5.151598203238949, "coverage_pct": 100.0}
+{"model": "GRU", "seed": 2, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06123067252619682, "gain_pct": 6.498268494477999, "coverage_pct": 100.0}
+{"model": "CfC_time", "seed": 0, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06171856854029711, "gain_pct": 5.753231403900527, "coverage_pct": 100.0}
+{"model": "CfC_time", "seed": 1, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06247001813823172, "gain_pct": 4.6057372535471375, "coverage_pct": 100.0}
+{"model": "CfC_time", "seed": 2, "condition": "nominal", "n": 412, "before_m": 0.06548613757230867, "after_m": 0.06226644632888718, "gain_pct": 4.916599699999669, "coverage_pct": 100.0}
+{"model": "Zero", "seed": -1, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.039893412427791555, "gain_pct": 0.0, "coverage_pct": 0.0}
+{"model": "Always", "seed": -1, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.04201497696794888, "gain_pct": -5.318082387655942, "coverage_pct": 100.0}
+{"model": "FixedHalf", "seed": -1, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.03717703755703483, "gain_pct": 6.809081262911409, "coverage_pct": 100.0}
+{"model": "GRU", "seed": 0, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.03738748494024101, "gain_pct": 6.281557116945969, "coverage_pct": 100.0}
+{"model": "GRU", "seed": 1, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.037184959413850006, "gain_pct": 6.789223706655678, "coverage_pct": 100.0}
+{"model": "GRU", "seed": 2, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.037519461542768105, "gain_pct": 5.950734069993091, "coverage_pct": 100.0}
+{"model": "CfC_time", "seed": 0, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.03718978736441918, "gain_pct": 6.7771215818301584, "coverage_pct": 100.0}
+{"model": "CfC_time", "seed": 1, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.037412817710259, "gain_pct": 6.2180559811034435, "coverage_pct": 100.0}
+{"model": "CfC_time", "seed": 2, "condition": "drop50", "n": 84, "before_m": 0.039893412427791555, "after_m": 0.03744835623213481, "gain_pct": 6.128972296071133, "coverage_pct": 100.0}
+REPEAT_CHECK_COMPLETE

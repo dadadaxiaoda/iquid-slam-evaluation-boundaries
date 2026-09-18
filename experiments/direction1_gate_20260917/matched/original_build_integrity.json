@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/opt/slam-study/ORB_SLAM3/Examples/Monocular/mono_euroc.cc",
+    "sha256": "9279259a079de1d1207805099176fe6f0c1a19a238c289450fcbcb576d09c748",
+    "unchanged": true
+  },
+  {
+    "path": "/opt/slam-study/ORB_SLAM3/lib/libORB_SLAM3.so",
+    "sha256": "4793a8df79bf07176cf45e0c9c7446bde8a95f5a095156cc55a9f224d1376e50",
+    "unchanged": true
+  },
+  {
+    "path": "/opt/slam-study/ORB_SLAM3/Examples/Monocular/EuRoC.yaml",
+    "sha256": "3c4dd4e8b908185e7735681be892d1954d08de66b332ae1cdf335a181373e990",
+    "unchanged": true
+  }
+]

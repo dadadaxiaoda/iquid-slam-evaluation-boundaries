@@ -1,0 +1,8 @@
+{
+  "/opt/slam-study/experiments/quality_capture_20260918/V202/quality.csv": true,
+  "/opt/slam-study/experiments/quality_capture_20260918/V202/online.csv": true,
+  "/opt/slam-study/datasets/V202/mav0/state_groundtruth_estimate0/data.csv": true,
+  "/opt/slam-study/experiments/reliability_pilot_20260918/rectification.json": true,
+  "/opt/slam-study/experiments/reliability_pilot_20260918/protocol.json": true,
+  "/opt/slam-study/experiments/quality_capture_20260918/V202/f_V202.txt": true
+}

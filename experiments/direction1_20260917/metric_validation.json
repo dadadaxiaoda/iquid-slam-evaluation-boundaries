@@ -1,0 +1,1037 @@
+[
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Zero_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Zero_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Zero_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Zero_-1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Zero_-1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Zero_-1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Mean_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Mean_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Mean_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Mean_-1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Mean_-1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Mean_-1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Ridge_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Ridge_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Ridge_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Ridge_-1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Ridge_-1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/Ridge_-1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_0_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_0_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_0_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_2_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_2_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/MLP_2_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_0_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_0_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_0_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_2_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_2_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/GRU_2_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_0_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_0_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_0_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_2_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_2_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_fixed_head_2_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_0_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_0_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_0_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_2_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_2_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/CfC_time_head_2_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Zero_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Zero_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Zero_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Mean_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Mean_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Mean_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Ridge_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Ridge_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/Ridge_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/GRU_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_fixed_head_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/future_diagnostic/CfC_time_head_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Zero_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Zero_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Zero_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Zero_-1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Zero_-1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Zero_-1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Mean_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Mean_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Mean_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Mean_-1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Mean_-1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Mean_-1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Ridge_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Ridge_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Ridge_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Ridge_-1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Ridge_-1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/Ridge_-1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_0_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_0_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_0_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_2_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_2_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_fixed_2_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_0_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_0_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_0_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_1_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_1_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_1_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_2_V202_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_2_V202_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_cross_sequence",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_cross/DenseCfC_time_2_V202_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Zero_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Zero_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Zero_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Mean_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Mean_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Mean_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Ridge_-1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Ridge_-1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/Ridge_-1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_fixed_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_0_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_0_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_0_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_1_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_1_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_1_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_2_V103_nominal.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_2_V103_drop25.npz",
+    "max_metric_difference": 0.0
+  },
+  {
+    "case": "dense_same_sequence_future",
+    "file": "/opt/slam-study/experiments/direction1_20260917/dense_future/DenseCfC_time_2_V103_drop50.npz",
+    "max_metric_difference": 0.0
+  }
+]

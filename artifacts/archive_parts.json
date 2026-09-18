@@ -1,0 +1,92 @@
+[
+  {
+    "path": "artifacts/experimental_outputs.zip.part000",
+    "bytes": 4194304,
+    "sha256": "557b7aacc48d5a380c61dc538c8376bc6258b8d9c0195967d96f2ff6ceb07d13"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part001",
+    "bytes": 4194304,
+    "sha256": "721b433a24d1d0360ca0434f98d915a02ad2cc206eb31fa8abaae49c93cecac1"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part002",
+    "bytes": 4194304,
+    "sha256": "55aa2f2c0e8193b00b5b5160b0e72737f3df86940d44c6d8afc2db3fa65a3876"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part003",
+    "bytes": 4194304,
+    "sha256": "f7697e039005d3c1268648e6f14f8532c4022b3e13aef9e2db7aae427cd836de"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part004",
+    "bytes": 4194304,
+    "sha256": "73370bcec8585acacdda973b90c8e1df6b41bd70ec976735dde5c259f877c207"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part005",
+    "bytes": 4194304,
+    "sha256": "e93b29bf2c9194020f25330d0e482cc9862a82c2ed1d3bab4a47023d7f7d3739"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part006",
+    "bytes": 4194304,
+    "sha256": "a74fcda5659545649699280073387cb7b449a9d8cb5668b8d568559e729ad3a1"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part007",
+    "bytes": 4194304,
+    "sha256": "3f22739b497bec863fe4147c790804ab340a7abf25ff53dca3c94cc0e7f74a4e"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part008",
+    "bytes": 4194304,
+    "sha256": "1a3427f033b3215b05a4ecd9bf510738ef1c1505de60eb56e947079ecfddbf7c"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part009",
+    "bytes": 4194304,
+    "sha256": "e536abd65b9dfe3ad148c5045e78ab19606f52c764a4f99f6f3140723f2d0c4b"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part010",
+    "bytes": 4194304,
+    "sha256": "855039fbf98986a9872fe4119919c935b3a25450f36c6b3d98fc1bb84715e476"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part011",
+    "bytes": 4194304,
+    "sha256": "973a57b41fb0c2142e2e251fdc966ef668a90e7d38c5af612beb8c804b2ba877"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part012",
+    "bytes": 4194304,
+    "sha256": "93fd5ce64448d4369b76f000060536ddf941787d5fe8b5eff611d28fa5ba94c5"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part013",
+    "bytes": 4194304,
+    "sha256": "c98b4ac0216534e721d11c1bc441c0790486722f7bb3b0278084b1131a22b7f8"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part014",
+    "bytes": 4194304,
+    "sha256": "af6d1e761e6299c7cc9591cb0474b7b7944714a0fae3c773d36da297b83d1c1e"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part015",
+    "bytes": 4194304,
+    "sha256": "033479f5f90750fb3a336222cee7e6c718b4b8f680bd4941f22fd03147dde170"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part016",
+    "bytes": 4194304,
+    "sha256": "6cf8180698c121200e8f2d08c63044efefa96af776385a7260321f17d0943cef"
+  },
+  {
+    "path": "artifacts/experimental_outputs.zip.part017",
+    "bytes": 850728,
+    "sha256": "6eedeb6114d1952c6294ce0db380bb6a03faca4183cc6477144e5d04ebd8a0d1"
+  }
+]

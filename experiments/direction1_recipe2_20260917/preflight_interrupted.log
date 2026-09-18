@@ -1,0 +1,32 @@
+DATA V101 {"n": 2781, "scale": 2.1615688607285275, "gravity_norm": 9.81, "rows": {"nominal": 2184, "drop50": 548}, "rms_m": 0.025682196021080017}
+DATA V102 {"n": 1601, "scale": 0.1795954760246871, "gravity_norm": 9.81, "rows": {"nominal": 1240, "drop50": 328}, "rms_m": 0.03372631222009659}
+DATA V201 {"n": 2077, "scale": 3.459714179890973, "gravity_norm": 9.810000000000002, "rows": {"nominal": 1621, "drop50": 412}, "rms_m": 0.044586848467588425}
+DATA V103 {"n": 1827, "scale": 9.682492969455915, "gravity_norm": 9.81, "rows": {"nominal": 1421, "drop50": 366}, "rms_m": 1.5553944110870361}
+DATA V202 {"n": 2270, "scale": 4.895111064727632, "gravity_norm": 9.81, "rows": {"nominal": 1775, "drop50": 443}, "rms_m": 0.015635384246706963}
+{"model": "Zero", "seed": -1, "test": "V103_future_nominal", "n": 386, "before_m": 1.5019634390862246, "after_m": 1.5019634390862246, "gain_pct": 0.0, "r2": -0.002750555205474514}
+{"model": "Zero", "seed": -1, "test": "V103_future_drop50", "n": 85, "before_m": 1.3876227890850479, "after_m": 1.3876227890850479, "gain_pct": 0.0, "r2": -0.0084337590348873}
+{"model": "Zero", "seed": -1, "test": "V202_independent_nominal", "n": 1775, "before_m": 0.0156353838268325, "after_m": 0.0156353838268325, "gain_pct": 0.0, "r2": -0.0032043407815749436}
+{"model": "Zero", "seed": -1, "test": "V202_independent_drop50", "n": 443, "before_m": 0.01551269967479711, "after_m": 0.01551269967479711, "gain_pct": 0.0, "r2": -0.001977518516373511}
+{"model": "Physical", "seed": -1, "test": "V103_future_nominal", "n": 386, "before_m": 1.5019634390862246, "after_m": 2.758790476824009, "gain_pct": -83.67893685231257, "r2": -2.3830749942260185}
+{"model": "Physical", "seed": -1, "test": "V103_future_drop50", "n": 85, "before_m": 1.3876227890850479, "after_m": 1.9073339168349723, "gain_pct": -37.4533433608859, "r2": -0.9052764166213689}
+{"model": "Physical", "seed": -1, "test": "V202_independent_nominal", "n": 1775, "before_m": 0.0156353838268325, "after_m": 0.10120482064521552, "gain_pct": -547.2806920897838, "r2": -41.03148243613724}
+{"model": "Physical", "seed": -1, "test": "V202_independent_drop50", "n": 443, "before_m": 0.01551269967479711, "after_m": 0.1034007383736822, "gain_pct": -566.5554064820415, "r2": -43.51747136945402}
+{"model": "Physical_shrunk", "seed": -1, "test": "V103_future_nominal", "n": 386, "before_m": 1.5019634390862246, "after_m": 1.015474736598543, "gain_pct": 32.39018273198815, "r2": 0.5416339580768015, "gate": 0.25}
+{"model": "Physical_shrunk", "seed": -1, "test": "V103_future_drop50", "n": 85, "before_m": 1.3876227890850479, "after_m": 0.9527462384444878, "gain_pct": 31.339680643851576, "r2": 0.5246001786323169, "gate": 0.25}
+{"model": "Physical_shrunk", "seed": -1, "test": "V202_independent_nominal", "n": 1775, "before_m": 0.0156353838268325, "after_m": 0.02818186206123752, "gain_pct": -80.24413326440705, "r2": -2.2592050031565547, "gate": 0.25}
+{"model": "Physical_shrunk", "seed": -1, "test": "V202_independent_drop50", "n": 443, "before_m": 0.01551269967479711, "after_m": 0.028605234264692535, "gain_pct": -84.39881428998697, "r2": -2.4070164120826014, "gate": 0.25}
+{"model": "Physical_Ridge_residual", "seed": -1, "test": "V103_future_nominal", "n": 386, "before_m": 1.5019634390862246, "after_m": 0.9783526224870257, "gain_pct": 34.86175515149404, "r2": 0.5745338477233943, "reg": 1000, "physical_gate": 0.25}
+{"model": "Physical_Ridge_residual", "seed": -1, "test": "V103_future_drop50", "n": 85, "before_m": 1.3876227890850479, "after_m": 0.9379133601326847, "gain_pct": 32.408622320831626, "r2": 0.5392875239669253, "reg": 1000, "physical_gate": 0.25}
+{"model": "Physical_Ridge_residual", "seed": -1, "test": "V202_independent_nominal", "n": 1775, "before_m": 0.0156353838268325, "after_m": 0.042590856482945694, "gain_pct": -172.40045370586836, "r2": -6.4439775696841854, "reg": 1000, "physical_gate": 0.25}
+{"model": "Physical_Ridge_residual", "seed": -1, "test": "V202_independent_drop50", "n": 443, "before_m": 0.01551269967479711, "after_m": 0.05868257229073256, "gain_pct": -278.2872969949382, "r2": -13.338426449680977, "reg": 1000, "physical_gate": 0.25}
+PROGRESS CfC_direct 0 10 0.3656778931617737
+PROGRESS CfC_direct 0 20 0.419990599155426
+{"model": "CfC_direct", "seed": 0, "test": "V103_future_nominal", "n": 386, "before_m": 1.5019634390862246, "after_m": 0.9812380412479896, "gain_pct": 34.66964536467264, "r2": 0.572020524167359, "best_epoch": 9, "epochs_run": 21, "seconds": 22.708062887191772, "parameters": 27971, "physical_gate": 0}
+{"model": "CfC_direct", "seed": 0, "test": "V103_future_drop50", "n": 85, "before_m": 1.3876227890850479, "after_m": 0.9559658831742159, "gain_pct": 31.107654710359157, "r2": 0.5213816830860727, "best_epoch": 9, "epochs_run": 21, "seconds": 22.708062887191772, "parameters": 27971, "physical_gate": 0}
+{"model": "CfC_direct", "seed": 0, "test": "V202_independent_nominal", "n": 1775, "before_m": 0.0156353838268325, "after_m": 0.048323021242169764, "gain_pct": -209.06194422448854, "r2": -8.582536170935189, "best_epoch": 9, "epochs_run": 21, "seconds": 22.708062887191772, "parameters": 27971, "physical_gate": 0}
+{"model": "CfC_direct", "seed": 0, "test": "V202_independent_drop50", "n": 443, "before_m": 0.01551269967479711, "after_m": 0.0540847529846509, "gain_pct": -248.6482309234693, "r2": -11.179596735393472, "best_epoch": 9, "epochs_run": 21, "seconds": 22.708062887191772, "parameters": 27971, "physical_gate": 0}
+{"model": "CfC_direct_gated", "seed": 0, "test": "V103_future_nominal", "n": 386, "before_m": 1.5019634390862246, "after_m": 0.9812380412479896, "gain_pct": 34.66964536467264, "r2": 0.572020524167359, "output_gate": 1, "physical_gate": 0}
+{"model": "CfC_direct_gated", "seed": 0, "test": "V103_future_drop50", "n": 85, "before_m": 1.3876227890850479, "after_m": 0.9559658831742159, "gain_pct": 31.107654710359157, "r2": 0.5213816830860727, "output_gate": 1, "physical_gate": 0}
+{"model": "CfC_direct_gated", "seed": 0, "test": "V202_independent_nominal", "n": 1775, "before_m": 0.0156353838268325, "after_m": 0.048323021242169764, "gain_pct": -209.06194422448854, "r2": -8.582536170935189, "output_gate": 1, "physical_gate": 0}
+{"model": "CfC_direct_gated", "seed": 0, "test": "V202_independent_drop50", "n": 443, "before_m": 0.01551269967479711, "after_m": 0.0540847529846509, "gain_pct": -248.6482309234693, "r2": -11.179596735393472, "output_gate": 1, "physical_gate": 0}
+PROGRESS CfC_direct 1 10 0.3299778699874878

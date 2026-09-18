@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "checks": {
+    "one_record_per_image": true,
+    "input_ids_contiguous": true,
+    "timestamps_match": true,
+    "states_match": true,
+    "pose_matches_api_output": true,
+    "pose_missing_marked": true,
+    "counts_consistent": true,
+    "reprojection_missing_marked": true,
+    "reprojection_finite_when_available": true,
+    "quantiles_ordered": true,
+    "depth_valid_fraction_bounded": true,
+    "inlier_grid_coverage_bounded": true,
+    "imu_missing_marked": true,
+    "imu_valid_nonnegative": true,
+    "context_flags_consistent": true,
+    "reset_epoch_monotonic": true,
+    "all_original_files_unchanged": true
+  },
+  "summary": {
+    "rows": 2348,
+    "pose_valid_rows": 2276,
+    "reprojection_available_rows": 2276,
+    "imu_initialized_rows": 2228,
+    "imu_consistency_available_rows": 1610,
+    "map_ids": [
+      0
+    ],
+    "reset_events": 0,
+    "map_create_events": 0,
+    "map_big_change_transitions": 2,
+    "context_change_rows": 2,
+    "frame_timestamp_mismatch_rows": 0,
+    "reprojection_median_px": {
+      "mean": 1.2787798679082794,
+      "median": 1.4790141176765,
+      "p95": 1.9418652623994999,
+      "max": 2.478721179171
+    },
+    "grid_coverage": {
+      "mean": 0.7112075278265937,
+      "median": 0.729166666667,
+      "p95": 0.895833333333,
+      "max": 0.979166666667
+    },
+    "imu_residual_degrees": {
+      "mean": 0.009449235969403839,
+      "median": 0.007516699032580371,
+      "p95": 0.021651141119545483,
+      "max": 0.14287823264008997
+    },
+    "logger_compute_and_lock_ms": {
+      "mean": 0.17462902427597957,
+      "median": 0.1080145,
+      "p95": 0.19586825,
+      "max": 11.418802
+    },
+    "api_including_logger_ms": {
+      "mean": 17.873370346678023,
+      "median": 17.8428585,
+      "p95": 21.99838395,
+      "max": 69.543702
+    },
+    "timing_note": "logger_ms includes metric computation and map-lock waiting; excludes CSV formatting/write. API timing includes entire callback.",
+    "context_note": "Map-change counters identify context changes but do not uniquely classify every loop/BA event. last_init_id=-1 until a reset/map creation establishes it.",
+    "scope": "One V202 replay, instrumentation acceptance only; no training or SLAM improvement claim."
+  }
+}

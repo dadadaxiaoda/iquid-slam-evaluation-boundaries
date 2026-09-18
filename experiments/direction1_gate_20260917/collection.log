@@ -1,0 +1,11 @@
+REPLAY_START V101
+REPLAY_DONE {"sequence": "V101", "exit_code": 0, "seconds": 159.15359258651733, "frame_trajectory_exists": true, "quality_exists": true, "trajectory_rows": 2802}
+REPLAY_START V102
+REPLAY_DONE {"sequence": "V102", "exit_code": 0, "seconds": 95.53297567367554, "frame_trajectory_exists": true, "quality_exists": true, "trajectory_rows": 1614}
+REPLAY_START V201
+REPLAY_DONE {"sequence": "V201", "exit_code": 0, "seconds": 127.124929189682, "frame_trajectory_exists": true, "quality_exists": true, "trajectory_rows": 2075}
+REPLAY_START V103
+REPLAY_DONE {"sequence": "V103", "exit_code": 0, "seconds": 119.13983488082886, "frame_trajectory_exists": true, "quality_exists": true, "trajectory_rows": 1951}
+REPLAY_START V202
+REPLAY_DONE {"sequence": "V202", "exit_code": 0, "seconds": 130.03725004196167, "frame_trajectory_exists": true, "quality_exists": true, "trajectory_rows": 2280}
+COLLECTION_COMPLETE

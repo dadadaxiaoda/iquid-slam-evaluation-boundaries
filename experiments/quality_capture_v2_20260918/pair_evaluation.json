@@ -1,0 +1,86 @@
+{
+  "scope": "One extra V202 replay, no training, coordinate-label acceptance only.",
+  "label_method": "At the 1-second endpoint reconstruct both frame poses from their stored frame-to-reference transforms and current reference-keyframe poses under map update lock.",
+  "causality": "Reconstruction uses map state available at endpoint, never final-export poses; final export is diagnostic only.",
+  "threshold_m": 0.07096669136726715,
+  "threshold_note": "Old frozen threshold used for comparability only; future training requires a newly verified training-label protocol.",
+  "raw_online_absolute_output_difference": {
+    "windows": 395,
+    "median_cm": 1.472174949335202,
+    "p90_cm": 2.962857136558366,
+    "rmse_cm": 20.96110479463128,
+    "max_cm": 205.90045650567728,
+    "above_frozen_threshold": 8
+  },
+  "coordinate_consistent_online_pairs": {
+    "windows": 395,
+    "median_cm": 1.1697912986492534,
+    "p90_cm": 2.1911087384838117,
+    "rmse_cm": 1.43423080456485,
+    "max_cm": 3.4201268331923522,
+    "above_frozen_threshold": 0
+  },
+  "final_export_diagnostic_same_windows": {
+    "windows": 395,
+    "median_cm": 0.9623287647658243,
+    "p90_cm": 1.7290420186663813,
+    "rmse_cm": 1.1440498167990958,
+    "max_cm": 3.4266824702004604,
+    "above_frozen_threshold": 0
+  },
+  "valid_pair_rows": 2228,
+  "rotation_error_median_degrees": 0.19283281535519822,
+  "consistent_label_risk_episodes": 0,
+  "largest_raw_error_examples": [
+    {
+      "forecast_start_offset_s": 17.950000047683716,
+      "raw_error_cm": 205.90045650567728,
+      "consistent_online_pair_error_cm": 1.1307952962075813,
+      "final_export_diagnostic_error_cm": 0.547344030034322,
+      "big_context_crossing": false,
+      "map_update_crossing": true
+    },
+    {
+      "forecast_start_offset_s": 18.200000047683716,
+      "raw_error_cm": 204.31465160275303,
+      "consistent_online_pair_error_cm": 0.981416127248747,
+      "final_export_diagnostic_error_cm": 0.8941267575575658,
+      "big_context_crossing": false,
+      "map_update_crossing": true
+    },
+    {
+      "forecast_start_offset_s": 18.700000047683716,
+      "raw_error_cm": 202.6015025844966,
+      "consistent_online_pair_error_cm": 2.221887676902976,
+      "final_export_diagnostic_error_cm": 0.27608004166546124,
+      "big_context_crossing": false,
+      "map_update_crossing": true
+    },
+    {
+      "forecast_start_offset_s": 18.450000047683716,
+      "raw_error_cm": 201.34888209526775,
+      "consistent_online_pair_error_cm": 1.5699050167019384,
+      "final_export_diagnostic_error_cm": 0.7493607359915307,
+      "big_context_crossing": false,
+      "map_update_crossing": true
+    },
+    {
+      "forecast_start_offset_s": 30.950000047683716,
+      "raw_error_cm": 42.25129865397583,
+      "consistent_online_pair_error_cm": 2.782805703300231,
+      "final_export_diagnostic_error_cm": 1.8288906464910188,
+      "big_context_crossing": true,
+      "map_update_crossing": true
+    }
+  ],
+  "training_runs": 0,
+  "decision": "No model fitting unless verified labels provide enough independent events.",
+  "limitations": [
+    "Previously inspected sequence, one corrected replay",
+    "Only local 1-second relative motion, not global accumulated drift",
+    "Past pose is revised with endpoint map state; target is localization after that update, not error of the original immutable historical output",
+    "No classification of all individual loop/BA event types",
+    "Cannot infer CfC superiority from instrumentation repair"
+  ],
+  "original_files_unchanged": true
+}

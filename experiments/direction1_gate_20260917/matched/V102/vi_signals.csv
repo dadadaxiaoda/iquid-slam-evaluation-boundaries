@@ -1,0 +1,1 @@
+kf_id,ts,n_inertial_edges,n_vis_edges,err_R_mean,err_R_std,err_R_max,err_V_mean,err_V_std,err_V_max,err_P_mean,err_P_std,err_P_max,chi2_inertial_mean,chi2_inertial_max,rel_robust_chi2,n_gyro_rw,n_acc_rw,bg_x,bg_y,bg_z,ba_x,ba_y,ba_z,vel_x,vel_y,vel_z

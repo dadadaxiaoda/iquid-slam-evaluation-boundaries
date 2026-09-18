@@ -1,0 +1,45 @@
+{"model": "Zero", "seed": -1, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.2771386185040177, "gain_pct": 0.0, "r2": -0.010029186281220737}
+{"model": "Zero", "seed": -1, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.2656376121041237, "gain_pct": 0.0, "r2": -0.01598445995074327}
+{"model": "Zero", "seed": -1, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.1401495795862606, "gain_pct": 0.0, "r2": -0.012808611091502886}
+{"model": "Mean", "seed": -1, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.2768675969209344, "gain_pct": 0.021220999753390757, "r2": -0.009600555183689075}
+{"model": "Mean", "seed": -1, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.2642598218069525, "gain_pct": 0.10886135841685629, "r2": -0.013773635004322493}
+{"model": "Mean", "seed": -1, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.1426186856449227, "gain_pct": -0.2165598359083809, "r2": -0.017200034310279833}
+{"model": "Ridge", "seed": -1, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 0.664002915686512, "gain_pct": 48.008547696702266, "r2": 0.7269778882506752, "alpha": 10}
+{"model": "Ridge", "seed": -1, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.0106133945917242, "gain_pct": 20.149860834842094, "r2": 0.35220376437588785, "alpha": 10}
+{"model": "Ridge", "seed": -1, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.2938267548180709, "gain_pct": -13.47868542718551, "r2": -0.30423538090479907, "alpha": 10}
+PROGRESS DenseCfC_fixed seed=0 epoch=10 val=0.849459
+PROGRESS DenseCfC_fixed seed=0 epoch=20 val=0.754094
+{"model": "DenseCfC_fixed", "seed": 0, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.3589022582709014, "gain_pct": -6.402095949667386, "r2": -0.14349505124470352, "best_epoch": 19, "epochs": 29, "seconds": 5.727560997009277, "parameters": 22211}
+{"model": "DenseCfC_fixed", "seed": 0, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.322020655064255, "gain_pct": -4.454912087070051, "r2": -0.10852323628486182, "best_epoch": 19, "epochs": 29, "seconds": 5.727560997009277, "parameters": 22211}
+{"model": "DenseCfC_fixed", "seed": 0, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.117082321599545, "gain_pct": 2.0231782215002325, "r2": 0.02775866750218281, "best_epoch": 19, "epochs": 29, "seconds": 5.727560997009277, "parameters": 22211}
+PROGRESS DenseCfC_fixed seed=1 epoch=10 val=0.808135
+PROGRESS DenseCfC_fixed seed=1 epoch=20 val=0.721002
+PROGRESS DenseCfC_fixed seed=1 epoch=30 val=0.735332
+{"model": "DenseCfC_fixed", "seed": 1, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.194489286400599, "gain_pct": 6.471445691637645, "r2": 0.11646783146420991, "best_epoch": 20, "epochs": 30, "seconds": 5.87261700630188, "parameters": 22211}
+{"model": "DenseCfC_fixed", "seed": 1, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.2084563346758856, "gain_pct": 4.517981836299423, "r2": 0.07374568304714202, "best_epoch": 20, "epochs": 30, "seconds": 5.87261700630188, "parameters": 22211}
+{"model": "DenseCfC_fixed", "seed": 1, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.1176985420665444, "gain_pct": 1.9691308861301549, "r2": 0.026685729111820877, "best_epoch": 20, "epochs": 30, "seconds": 5.87261700630188, "parameters": 22211}
+PROGRESS DenseCfC_fixed seed=2 epoch=10 val=0.851932
+PROGRESS DenseCfC_fixed seed=2 epoch=20 val=0.809733
+PROGRESS DenseCfC_fixed seed=2 epoch=30 val=0.794284
+{"model": "DenseCfC_fixed", "seed": 2, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.2222582488172076, "gain_pct": 4.297134930513213, "r2": 0.07491039153965773, "best_epoch": 25, "epochs": 35, "seconds": 6.354151487350464, "parameters": 22211}
+{"model": "DenseCfC_fixed", "seed": 2, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.2194143905329502, "gain_pct": 3.652168766881647, "r2": 0.05687132001358042, "best_epoch": 25, "epochs": 35, "seconds": 6.354151487350464, "parameters": 22211}
+{"model": "DenseCfC_fixed", "seed": 2, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.0777427354904152, "gain_pct": 5.473566382271677, "r2": 0.09503052481348429, "best_epoch": 25, "epochs": 35, "seconds": 6.354151487350464, "parameters": 22211}
+PROGRESS DenseCfC_time seed=0 epoch=10 val=0.854538
+PROGRESS DenseCfC_time seed=0 epoch=20 val=0.762912
+PROGRESS DenseCfC_time seed=0 epoch=30 val=0.761140
+PROGRESS DenseCfC_time seed=0 epoch=40 val=0.764721
+{"model": "DenseCfC_time", "seed": 0, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.342158850509834, "gain_pct": -5.091086516667875, "r2": -0.11549001671790249, "best_epoch": 32, "epochs": 42, "seconds": 7.651103973388672, "parameters": 22211}
+{"model": "DenseCfC_time", "seed": 0, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.3205146763237652, "gain_pct": -4.335922359988054, "r2": -0.10599912810864409, "best_epoch": 32, "epochs": 42, "seconds": 7.651103973388672, "parameters": 22211}
+{"model": "DenseCfC_time", "seed": 0, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.1844280466810522, "gain_pct": -3.8835664975519713, "r2": -0.09300232983584844, "best_epoch": 32, "epochs": 42, "seconds": 7.651103973388672, "parameters": 22211}
+PROGRESS DenseCfC_time seed=1 epoch=10 val=0.824352
+PROGRESS DenseCfC_time seed=1 epoch=20 val=0.733698
+PROGRESS DenseCfC_time seed=1 epoch=30 val=0.736018
+{"model": "DenseCfC_time", "seed": 1, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.2266426464940343, "gain_pct": 3.9538364339128718, "r2": 0.0682616569359048, "best_epoch": 23, "epochs": 33, "seconds": 6.3829121589660645, "parameters": 22211}
+{"model": "DenseCfC_time", "seed": 1, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.2414568828056936, "gain_pct": 1.9105571031687085, "r2": 0.02246660904512976, "best_epoch": 23, "epochs": 33, "seconds": 6.3829121589660645, "parameters": 22211}
+{"model": "DenseCfC_time", "seed": 1, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.1171714888738995, "gain_pct": 2.0153575569180515, "r2": 0.027603449631650068, "best_epoch": 23, "epochs": 33, "seconds": 6.3829121589660645, "parameters": 22211}
+PROGRESS DenseCfC_time seed=2 epoch=10 val=0.884445
+PROGRESS DenseCfC_time seed=2 epoch=20 val=0.824976
+{"model": "DenseCfC_time", "seed": 2, "sequence": "V103", "condition": "nominal", "n": 268, "before_m": 1.2771386185040177, "after_m": 1.2508654483676231, "gain_pct": 2.05719017150775, "r2": 0.031099808494550962, "best_epoch": 17, "epochs": 27, "seconds": 5.178178310394287, "parameters": 22211}
+{"model": "DenseCfC_time", "seed": 2, "sequence": "V103", "condition": "drop25", "n": 194, "before_m": 1.2656376121041237, "after_m": 1.2491200368588904, "gain_pct": 1.305079359783945, "r2": 0.010361301281996749, "best_epoch": 17, "epochs": 27, "seconds": 5.178178310394287, "parameters": 22211}
+{"model": "DenseCfC_time", "seed": 2, "sequence": "V103", "condition": "drop50", "n": 119, "before_m": 1.1401495795862606, "after_m": 1.109645595658381, "gain_pct": 2.675437019320648, "r2": 0.04066053725934016, "best_epoch": 17, "epochs": 27, "seconds": 5.178178310394287, "parameters": 22211}
+COMPLETE 41.43767237663269

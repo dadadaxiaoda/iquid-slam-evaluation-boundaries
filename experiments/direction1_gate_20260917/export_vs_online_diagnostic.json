@@ -1,0 +1,156 @@
+{
+  "all_valid_windows": [
+    {
+      "kind": "new_online",
+      "raw_rows": 1951,
+      "clean_rows": 1932,
+      "scale": 1.6301947726040633,
+      "n_valid_windows": 1505,
+      "local_rms_m": 0.04343393713713885,
+      "quantiles_m": [
+        0.02242331100345388,
+        0.05899398823338942,
+        0.1650282480392875,
+        0.2716714945524214
+      ]
+    },
+    {
+      "kind": "new_export",
+      "raw_rows": 2001,
+      "clean_rows": 1935,
+      "scale": 1.609670558662331,
+      "n_valid_windows": 1507,
+      "local_rms_m": 0.03496732835490927,
+      "quantiles_m": [
+        0.01859263709755675,
+        0.04847082596207573,
+        0.13612600185746723,
+        0.2530684776479087
+      ]
+    },
+    {
+      "kind": "legacy_export",
+      "raw_rows": 2004,
+      "clean_rows": 1827,
+      "scale": 9.682492969455915,
+      "n_valid_windows": 1421,
+      "local_rms_m": 1.555394450274839,
+      "quantiles_m": [
+        0.6713106495659507,
+        2.9351857379090602,
+        5.254790711381586,
+        6.763472781425623
+      ]
+    }
+  ],
+  "common_endpoints": [
+    {
+      "kind": "new_online",
+      "n_common_endpoints": 1421,
+      "rms_m": 0.04436028323806907
+    },
+    {
+      "kind": "new_export",
+      "n_common_endpoints": 1421,
+      "rms_m": 0.03579090801202165
+    },
+    {
+      "kind": "legacy_export",
+      "n_common_endpoints": 1421,
+      "rms_m": 1.555394450274839
+    }
+  ],
+  "scale_sensitivity": [
+    {
+      "kind": "new_online",
+      "calibration_fraction": 0.1,
+      "scale": 1.6202844607354017,
+      "same_window_local_rms_m": 0.043020499094623
+    },
+    {
+      "kind": "new_online",
+      "calibration_fraction": 0.2,
+      "scale": 1.6301947726040633,
+      "same_window_local_rms_m": 0.04343393713713885
+    },
+    {
+      "kind": "new_online",
+      "calibration_fraction": 0.3,
+      "scale": 1.628585408287736,
+      "same_window_local_rms_m": 0.04335663672548379
+    },
+    {
+      "kind": "new_online",
+      "calibration_fraction": 0.5,
+      "scale": 1.6277370688652368,
+      "same_window_local_rms_m": 0.04331746342125937
+    },
+    {
+      "kind": "new_online",
+      "calibration_fraction": 1.0,
+      "scale": 1.6134248607679882,
+      "same_window_local_rms_m": 0.04282301825767774
+    },
+    {
+      "kind": "new_export",
+      "calibration_fraction": 0.1,
+      "scale": 1.6138202063591864,
+      "same_window_local_rms_m": 0.03503188149613385
+    },
+    {
+      "kind": "new_export",
+      "calibration_fraction": 0.2,
+      "scale": 1.609670558662331,
+      "same_window_local_rms_m": 0.03496732835490927
+    },
+    {
+      "kind": "new_export",
+      "calibration_fraction": 0.3,
+      "scale": 1.6084897403608684,
+      "same_window_local_rms_m": 0.034955011255654145
+    },
+    {
+      "kind": "new_export",
+      "calibration_fraction": 0.5,
+      "scale": 1.6108469831158072,
+      "same_window_local_rms_m": 0.03498226908175026
+    },
+    {
+      "kind": "new_export",
+      "calibration_fraction": 1.0,
+      "scale": 1.6083565187071116,
+      "same_window_local_rms_m": 0.034953790268652245
+    },
+    {
+      "kind": "legacy_export",
+      "calibration_fraction": 0.1,
+      "scale": 7.239078704715375,
+      "same_window_local_rms_m": 1.1673477573408688
+    },
+    {
+      "kind": "legacy_export",
+      "calibration_fraction": 0.2,
+      "scale": 9.682492969455915,
+      "same_window_local_rms_m": 1.555394450274839
+    },
+    {
+      "kind": "legacy_export",
+      "calibration_fraction": 0.3,
+      "scale": 10.639241221190556,
+      "same_window_local_rms_m": 1.7098226192561328
+    },
+    {
+      "kind": "legacy_export",
+      "calibration_fraction": 0.5,
+      "scale": 8.022459553240461,
+      "same_window_local_rms_m": 1.2904450833895609
+    },
+    {
+      "kind": "legacy_export",
+      "calibration_fraction": 1.0,
+      "scale": 6.786639427959342,
+      "same_window_local_rms_m": 1.0970534870186577
+    }
+  ],
+  "caveat": "Per-source initial20% GT-derived scale; common endpoints may still have different start frames and calibration prefixes. This identifies run/export sensitivity, not a causal code-fix attribution."
+}

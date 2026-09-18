@@ -1,0 +1,14 @@
+{
+  "V101": {
+    "candidate_fit_end": 1403715374.1321433,
+    "gate_train_end": 1403715417.812143
+  },
+  "V102": {
+    "candidate_fit_end": 1403715583.682143,
+    "gate_train_end": 1403715608.362143
+  },
+  "V103": {
+    "candidate_fit_end": 1403715940.3940582,
+    "gate_train_end": 1403715955.4340582
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "/opt/slam-study/experiments/reliability_pilot_20260918/V101/online.csv": "956d52b523c5ea7408c54e54ddbb956a3b4bfb88d05fd4c27b32d4be88e5c58f",
+  "/opt/slam-study/datasets/V101/mav0/state_groundtruth_estimate0/data.csv": "701200e6924ba845ccdeea884bd717c82d1ed91f480913ea6e2e6ccb9c0fbf6d",
+  "/opt/slam-study/datasets/V101/mav0/imu0/data.csv": "4cef78a5cf7c8ee52016a160de4b50184da2a216d615feb7ebbbb3bc99efa89e",
+  "/opt/slam-study/ORB_SLAM3/Examples/Stereo-Inertial/EuRoC.yaml": "299add56d7b997d60d67e4257efe79177ef797cd5dc1ad0163c8e00313ed47d3",
+  "/opt/slam-study/experiments/reliability_pilot_20260918/rectification.json": "7fb81f618023e8e2a4052995a1594231346097c556cc5a920fb34230537619e2",
+  "/opt/slam-study/experiments/reliability_pilot_20260918/V201/online.csv": "3e4623d8b2baa3abde04f5a006a17f9f46f512772ba9ffcb6bad9829d76754d0",
+  "/opt/slam-study/datasets/V201/mav0/state_groundtruth_estimate0/data.csv": "315807fd7d91868ed6085a3d8fde40315842135f13199ed83e2e6270eb5b5126",
+  "/opt/slam-study/datasets/V201/mav0/imu0/data.csv": "d8df41e85c12761104043264a61054ad4bfa19087886e847f4e0412a19cd1633",
+  "/opt/slam-study/experiments/reliability_pilot_20260918/V202/online.csv": "405335934165f562e2b65c737b87eff159576f58b0d1d405d2ad5f1f02d3837c",
+  "/opt/slam-study/datasets/V202/mav0/state_groundtruth_estimate0/data.csv": "019ec178d0d2636dca66808f6422ae835b24f14184c54823b3a4a47bf187be2d",
+  "/opt/slam-study/datasets/V202/mav0/imu0/data.csv": "7f1028007d030a38e5c7e2cee19ca773015b2fecbbbe80794f5c34e900b2ee8e"
+}

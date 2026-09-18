@@ -1,0 +1,1 @@
+frame_id,ts,state,n_kps,n_map_pts,n_inliers,n_lost_kps,reproj_mean_px,reproj_std_px,reproj_median_px,n_reproj,obs_per_mp,n_local_mps,n_local_kfs,is_kf,n_global_kfs,n_global_mps,image_name

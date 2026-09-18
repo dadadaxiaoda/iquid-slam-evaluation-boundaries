@@ -1,0 +1,250 @@
+{
+  "/opt/slam-study/legacy/data/V201vi_f_scale_label.npz": {
+    "bytes": 386144,
+    "sha256": "00584df40a0811cd68f8fb756c6a3b4920b7488f2421d47fda649e9c28a1fe30"
+  },
+  "/opt/slam-study/legacy/data/MONO_V101_scale_label.npz": {
+    "bytes": 494208,
+    "sha256": "170287aba175952de8e57848ee10cf140454003865de3f04764157d281662965"
+  },
+  "/opt/slam-study/legacy/data/V101vi_scale_label.npz": {
+    "bytes": 54560,
+    "sha256": "205718d463879a8182bdf0c55c6e6000484a6946fb2bad05de7296e5ffaaf1fe"
+  },
+  "/opt/slam-study/legacy/data/TUMVI_room1_f_room1_scale_label.npz": {
+    "bytes": 502530,
+    "sha256": "17a15054605531bc64f8a98cdf45ccb0a5f87a74fb3a8bd4569ba4f3954609f3"
+  },
+  "/opt/slam-study/legacy/data/MONO_V201_scale_label.npz": {
+    "bytes": 380864,
+    "sha256": "06ad7bb93212d00da7593301a46e86c2e5a27977da7b3d71ced19eed1a677eba"
+  },
+  "/opt/slam-study/legacy/data/V202vi_scale_label.npz": {
+    "bytes": 65472,
+    "sha256": "28677b4671abc63892472d71c09d2bc24ac9520004d2d69fd5d11408109b3d00"
+  },
+  "/opt/slam-study/legacy/data/TUMVI_room1_kf_room1_scale_label.npz": {
+    "bytes": 24682,
+    "sha256": "7dd892901fe5ab10dbd54beae230bf3f00370cc931135069f551ea94f91d3b1f"
+  },
+  "/opt/slam-study/legacy/data/V202vi_f_scale_label.npz": {
+    "bytes": 400928,
+    "sha256": "5f2e981f4cb98b4284c2d6f590a0f722fde1da3d9a6168f1bd9bf33fb7429893"
+  },
+  "/opt/slam-study/legacy/data/V202degvi_scale_label.npz": {
+    "bytes": 419178,
+    "sha256": "483e675dbc1eeda090c17d92277b321b00e68ff04db77287cc30f8a35d218437"
+  },
+  "/opt/slam-study/legacy/data/V201vi_scale_label.npz": {
+    "bytes": 51920,
+    "sha256": "ae32ac583b11ef6e8ec39cdccbfc54cbb47e6e9b9147cb9349bc87f16b9418a5"
+  },
+  "/opt/slam-study/legacy/data/MONO_V202_scale_label.npz": {
+    "bytes": 404272,
+    "sha256": "5fc2594881752357d97927f112c65af97d3a2a804b0689cacec86e24334338d1"
+  },
+  "/opt/slam-study/legacy/data/MONO_V102_scale_label.npz": {
+    "bytes": 286528,
+    "sha256": "4813e2826d2349fac367d56d8d1d99433a206c7db65f65b7382a87dd7db809f5"
+  },
+  "/opt/slam-study/legacy/data/K00_scale_label.npz": {
+    "bytes": 294800,
+    "sha256": "52738375fa61b9a1d7b8482771e3b265b66c457de434102ad34aa266b5e59820"
+  },
+  "/opt/slam-study/legacy/data/K04i_scale_label.npz": {
+    "bytes": 29392,
+    "sha256": "3f714d3b7d3858906cb4d8a3703b9bab644e8aaea01e77296d0c7bc63889ff78"
+  },
+  "/opt/slam-study/legacy/data/V101vi_f_scale_label.npz": {
+    "bytes": 493856,
+    "sha256": "e7ef975425faa331d41bbf5923d614760b65e63a7b602baad19bbf66691fc223"
+  },
+  "/opt/slam-study/legacy/data/V202_scale_label.npz": {
+    "bytes": 348796,
+    "sha256": "25bf559b4c35b8a78f9d38ff5c357720ea696baec04d4353ff5ee38f5dbc4106"
+  },
+  "/opt/slam-study/legacy/data/V201_scale_label.npz": {
+    "bytes": 328580,
+    "sha256": "5b5cc5a9560ed631f5d5c0c4f3946c91226fd9f1efbf68f9fda21a0868bc7d85"
+  },
+  "/opt/slam-study/legacy/data/V102vi_scale_label.npz": {
+    "bytes": 51216,
+    "sha256": "b50a9496bc600cd34a5f25d10f7dc65f103edd8f1446bae8fb97f0112c7149a8"
+  },
+  "/opt/slam-study/legacy/data/V102vi_f_scale_label.npz": {
+    "bytes": 274032,
+    "sha256": "230d346079c0533e2d436e11573ea220ffe7772cd01d54dcb8c9705858ae637e"
+  },
+  "/opt/slam-study/legacy/data/K00i_scale_label.npz": {
+    "bytes": 298496,
+    "sha256": "64a245702657e98bd203d54ac756d7fca15f2a969dd0fb79ca533afb89f906df"
+  },
+  "/opt/slam-study/legacy/data/V103_scale_label.npz": {
+    "bytes": 308364,
+    "sha256": "51c691ed3210fea431d4885b0a82b8a4ca4aab2a062ddbc7d03367845044b7d5"
+  },
+  "/opt/slam-study/legacy/data/K04_scale_label.npz": {
+    "bytes": 29568,
+    "sha256": "30aa6f95aa1ee6bad8fcb7d8df028e961c24dc8b6674428172e59528023ebb7d"
+  },
+  "/opt/slam-study/legacy/data/MONO_V103_scale_label.npz": {
+    "bytes": 357456,
+    "sha256": "521459447a1665eead0a981f163366863c91b76e76b75fcaebc8898bb1e0b80b"
+  },
+  "/opt/slam-study/legacy/data/V102_scale_label.npz": {
+    "bytes": 247108,
+    "sha256": "861e52b25eeb455f7b64f94385694235374308ea7c3ee26e68f04d46888a265d"
+  },
+  "/opt/slam-study/legacy/data/K03_scale_label.npz": {
+    "bytes": 79024,
+    "sha256": "55f609d070046e2e03fb6771b00454520390d189b312e31f8ff9bce7a9c3904f"
+  },
+  "/opt/slam-study/legacy/data/V101_scale_label.npz": {
+    "bytes": 426468,
+    "sha256": "36b9e47fe2255a5071965f600334d463fdf5be5fd073830de576d065fbb06975"
+  },
+  "/opt/slam-study/legacy/data/V103vi_scale_label.npz": {
+    "bytes": 64610,
+    "sha256": "b199cbb747673573eec31240a82f11c64fde5bb66172b62586ded11937296a92"
+  },
+  "/opt/slam-study/legacy/data/V103vi_f_scale_label.npz": {
+    "bytes": 364346,
+    "sha256": "295fc875e8e0e4699c5cfb42509c4d3feb316b9f2ff7cd5acb4d69c02233aa9b"
+  },
+  "/opt/slam-study/legacy/data/V202basevi_scale_label.npz": {
+    "bytes": 419178,
+    "sha256": "a6528e1e5ce3801bd6adfaac638876f2490b690bdfc16402c50c6db14d6e9296"
+  },
+  "/opt/slam-study/legacy/data/K04_dataset.npz": {
+    "bytes": 140908,
+    "sha256": "bf4ea468ffe449f2ab81a45a1237cb55238d15ff9e8a3f20b8dce56bde0c7a8e"
+  },
+  "/opt/slam-study/legacy/data/V103_dataset_imu.npz": {
+    "bytes": 6081460,
+    "sha256": "ec5f560146e93381c40dd9acb80aa767936374d67fefb3f22c203cfaa2a16a8b"
+  },
+  "/opt/slam-study/legacy/data/K00i_dataset_instr.npz": {
+    "bytes": 7910230,
+    "sha256": "d19d2270ff43a2bac0b7935825e650ecd0152852554a873637dcefb3172edb29"
+  },
+  "/opt/slam-study/legacy/data/K00_dataset.npz": {
+    "bytes": 1864916,
+    "sha256": "febb64bcd54197a2bf84a9d2c1618cddc9354aad694e431581d0e77a29d0215b"
+  },
+  "/opt/slam-study/legacy/data/V101_dataset.npz": {
+    "bytes": 1626076,
+    "sha256": "700353d13d16240ec2e4258fd6ab414b23edcc14bb7d534817521710f64c18c2"
+  },
+  "/opt/slam-study/legacy/data/V103vi_dataset_instr.npz": {
+    "bytes": 2215376,
+    "sha256": "731e30d560fd56b292730e7d037e64f02323a016ca4256775446e62c06b1ab3f"
+  },
+  "/opt/slam-study/legacy/data/V101_dataset_imu.npz": {
+    "bytes": 8461690,
+    "sha256": "b2ac83ef0112c775aff4d37969fe66c1654b6a7ec70a3a7da9db42d8ee35acc3"
+  },
+  "/opt/slam-study/legacy/data/K04i_dataset_instr.npz": {
+    "bytes": 583262,
+    "sha256": "c9c8dbc1c6d5b24bda3d100427a577991a8c3099365da20cbca06c13ac84af5c"
+  },
+  "/opt/slam-study/legacy/data/V201_slam_tum.txt": {
+    "bytes": 230517,
+    "sha256": "5b31d6e97d993233cfe480b35ddfa15be4ea7fca6ee6850e28d54e9097e591ae"
+  },
+  "/opt/slam-study/legacy/data/V202_slam_tum.txt": {
+    "bytes": 246279,
+    "sha256": "9523d8cc5c22114320c9a6b6562bc0012d60d0ac42570d0b49298047e0db13ea"
+  },
+  "/opt/slam-study/legacy/data/V101_slam_tum.txt": {
+    "bytes": 300661,
+    "sha256": "50172bac150e84adb24490e2f6b1f68cac264e2391fab0453259748ea1ec99d0"
+  },
+  "/opt/slam-study/legacy/data/V103_slam_tum.txt": {
+    "bytes": 215137,
+    "sha256": "0f06247b7a96c3f0900a537d80543e0aa0f7d715c8083e2aaf0124456276440e"
+  },
+  "/opt/slam-study/legacy/data/V102_slam_tum.txt": {
+    "bytes": 175873,
+    "sha256": "15458a02c92d3a36f2309fc2a584778f6d9195ab8e304e2bed46b9e19631ab05"
+  },
+  "/opt/slam-study/legacy/kitti_train_multi.py": {
+    "bytes": 14919,
+    "sha256": "3f9cf271858c74ff1e4c06cc460b872cd9d0272c40a9757b3de13dd55db9453e"
+  },
+  "/opt/slam-study/legacy/kitti_dataset_instr.py": {
+    "bytes": 8748,
+    "sha256": "375f67f207e413d7d2fff8f4ee15079a34749161f2610577c2364a597b4b1123"
+  },
+  "/opt/slam-study/legacy/vi_dataset_instr.py": {
+    "bytes": 7728,
+    "sha256": "35900c61079ff69f659b6d2b3299e5f2c4272298407f233407fd1c9f5e1f52f0"
+  },
+  "/opt/slam-study/legacy/a1_dataset.py": {
+    "bytes": 3664,
+    "sha256": "c847da70180dbcc2e133e3195527ee37c56da1cd1d450d938f25407d9a994d1a"
+  },
+  "/opt/slam-study/legacy/a1_seq_analyze.py": {
+    "bytes": 6142,
+    "sha256": "dfd02bc12a66b82940d3e2ad6d651e7c658baa71ff816932728e800a3981080d"
+  },
+  "/opt/slam-study/datasets/V101/mav0/cam0/sensor.yaml": {
+    "bytes": 683,
+    "sha256": "191748edddda5d1368188f5b0a3c4bed6c48842c178ef9d83c50cba17d66e819"
+  },
+  "/opt/slam-study/datasets/V101/mav0/imu0/data.csv": {
+    "bytes": 4113500,
+    "sha256": "4cef78a5cf7c8ee52016a160de4b50184da2a216d615feb7ebbbb3bc99efa89e"
+  },
+  "/opt/slam-study/datasets/V101/mav0/state_groundtruth_estimate0/data.csv": {
+    "bytes": 4881721,
+    "sha256": "701200e6924ba845ccdeea884bd717c82d1ed91f480913ea6e2e6ccb9c0fbf6d"
+  },
+  "/opt/slam-study/datasets/V102/mav0/cam0/sensor.yaml": {
+    "bytes": 683,
+    "sha256": "191748edddda5d1368188f5b0a3c4bed6c48842c178ef9d83c50cba17d66e819"
+  },
+  "/opt/slam-study/datasets/V102/mav0/imu0/data.csv": {
+    "bytes": 2405855,
+    "sha256": "51804ce6362dc200fff3ed6a3aba1df769528badf1a877d19d5cac976a544c09"
+  },
+  "/opt/slam-study/datasets/V102/mav0/state_groundtruth_estimate0/data.csv": {
+    "bytes": 2837076,
+    "sha256": "fed415eee44313584b9c4f61010dac146d5e4a4a35301db25b1ecd7d4d91b5f0"
+  },
+  "/opt/slam-study/datasets/V103/mav0/cam0/sensor.yaml": {
+    "bytes": 683,
+    "sha256": "191748edddda5d1368188f5b0a3c4bed6c48842c178ef9d83c50cba17d66e819"
+  },
+  "/opt/slam-study/datasets/V103/mav0/imu0/data.csv": {
+    "bytes": 3024020,
+    "sha256": "543835f7b7dd9d1287c9052955e030ade113c51dc97ec2c15d13a318521ad0d7"
+  },
+  "/opt/slam-study/datasets/V103/mav0/state_groundtruth_estimate0/data.csv": {
+    "bytes": 3551709,
+    "sha256": "703ba51a854daba80f20df93e76605c2278b3f227afe2bcbe9eb4255186fc3d9"
+  },
+  "/opt/slam-study/datasets/V201/mav0/cam0/sensor.yaml": {
+    "bytes": 683,
+    "sha256": "191748edddda5d1368188f5b0a3c4bed6c48842c178ef9d83c50cba17d66e819"
+  },
+  "/opt/slam-study/datasets/V201/mav0/imu0/data.csv": {
+    "bytes": 3217729,
+    "sha256": "d8df41e85c12761104043264a61054ad4bfa19087886e847f4e0412a19cd1633"
+  },
+  "/opt/slam-study/datasets/V201/mav0/state_groundtruth_estimate0/data.csv": {
+    "bytes": 3832485,
+    "sha256": "315807fd7d91868ed6085a3d8fde40315842135f13199ed83e2e6270eb5b5126"
+  },
+  "/opt/slam-study/datasets/V202/mav0/cam0/sensor.yaml": {
+    "bytes": 683,
+    "sha256": "191748edddda5d1368188f5b0a3c4bed6c48842c178ef9d83c50cba17d66e819"
+  },
+  "/opt/slam-study/datasets/V202/mav0/imu0/data.csv": {
+    "bytes": 3305153,
+    "sha256": "7f1028007d030a38e5c7e2cee19ca773015b2fecbbbe80794f5c34e900b2ee8e"
+  },
+  "/opt/slam-study/datasets/V202/mav0/state_groundtruth_estimate0/data.csv": {
+    "bytes": 3921620,
+    "sha256": "019ec178d0d2636dca66808f6422ae835b24f14184c54823b3a4a47bf187be2d"
+  }
+}

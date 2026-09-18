@@ -1,0 +1,28 @@
+{
+  "train": "V101",
+  "validation": "V201",
+  "test": "V202",
+  "history_seconds": 2,
+  "forecast_seconds": 1,
+  "stride_seconds": 0.25,
+  "risk_threshold_m": 0.07096669136726715,
+  "threshold_selection": "training 90th percentile, floor 2cm",
+  "target": "future 1-second camera-frame relative translation error above threshold OR future non-OK tracking",
+  "model_input": "25 past/current motion and IMU features, including gyro consistency; no GT input; no reprojection/inlier quality",
+  "scale_alignment": "none; stereo metric scale; camera/IMU extrinsic conversion for GT labels",
+  "fit_budget": 5,
+  "neural_seeds": [
+    0,
+    1
+  ],
+  "epochs_max": 30,
+  "hidden_units": 32,
+  "limitations": [
+    "Previously inspected sequences, exploratory only",
+    "One replay per sequence",
+    "Overlapping windows, not independent samples",
+    "Tracking-OK histories only; startup first15seconds excluded",
+    "No SLAM intervention; no drift reduction claim",
+    "Existing library logs quality only on monocular path; VI quality file is empty; motion/IMU-only pilot does not test full quality-based proposal"
+  ]
+}

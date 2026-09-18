@@ -1,0 +1,454 @@
+{
+  "records_verified": 112,
+  "inputs_unchanged": 30,
+  "checks": [
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Zero_-1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Zero_-1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Zero_-1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Zero_-1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Always_-1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Always_-1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Always_-1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Always_-1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Oracle_GT_only_-1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Oracle_GT_only_-1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Oracle_GT_only_-1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Oracle_GT_only_-1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Threshold_-1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Threshold_-1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Threshold_-1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/Threshold_-1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/MLP_conservative_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/GRU_conservative_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_fixed_conservative_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_0_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_0_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_0_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_0_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_1_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_1_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_1_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_1_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_2_V202_independent_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_2_V103_future_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_2_V103_future_drop50.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_2_V202_independent_nominal.npz",
+      "verified": true
+    },
+    {
+      "file": "/opt/slam-study/experiments/direction1_gate_20260917/quality_gate/CfC_time_conservative_2_V202_independent_drop50.npz",
+      "verified": true
+    }
+  ]
+}

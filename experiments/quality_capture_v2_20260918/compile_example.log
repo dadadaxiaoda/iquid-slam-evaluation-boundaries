@@ -1,0 +1,554 @@
+In file included from /opt/slam-study/ORB_SLAM3/include/Frame.h:30,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/include/ImuTypes.h: In member function ‘void ORB_SLAM3::IMU::Preintegrated::printMeasurements() const’:
+/opt/slam-study/ORB_SLAM3/include/ImuTypes.h:204:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<ORB_SLAM3::IMU::Preintegrated::integrable>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+  204 |         for(int i=0; i<mvMeasurements.size(); i++){
+      |                      ~^~~~~~~~~~~~~~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: At global scope:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & AlignedBit ? Aligned : Unaligned >  HessianBlockType;
+      |                                                                          ^~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockType;
+      |                                                                                  ^~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockTransposedType;
+      |                                                                                  ^~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘class g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_sba.h:40:35:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & AlignedBit ? Aligned : Unaligned >  HessianBlockType;
+      |                                                                  ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘class g2o::BaseVertex<6, g2o::SE3Quat>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & AlignedBit ? Aligned : Unaligned >  HessianBlockType;
+      |                                                                  ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘class g2o::BaseBinaryEdge<6, g2o::SE3Quat, g2o::VertexSE3Expmap, g2o::VertexSE3Expmap>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:83:24:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockTransposedType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘class g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:114:35:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockTransposedType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘class g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:146:41:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockTransposedType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:37,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘class g2o::BaseVertex<7, g2o::Sim3>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   62 |     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & AlignedBit ? Aligned : Unaligned >  HessianBlockType;
+      |                                                                  ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘class g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockTransposedType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘class g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>’:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:   required from here
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   59 |       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:38,
+                 from /opt/slam-study/ORB_SLAM3/include/Converter.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:33,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80: warning: ‘Eigen::AlignedBit’ is deprecated [-Wdeprecated-declarations]
+   60 |       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & AlignedBit ? Aligned : Unaligned > HessianBlockTransposedType;
+      |                                                                          ~~~~~~^~~~~~~~~~~~
+In file included from /usr/include/eigen3/Eigen/Core:161,
+                 from /usr/include/eigen3/Eigen/LU:11,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/so2.hpp:12,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/se2.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/Thirdparty/Sophus/sophus/geometry.hpp:7,
+                 from /opt/slam-study/ORB_SLAM3/include/Frame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/KeyFrame.h:28,
+                 from /opt/slam-study/ORB_SLAM3/include/MapPoint.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:24,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/usr/include/eigen3/Eigen/src/Core/util/Constants.h:167:37: note: declared here
+  167 | EIGEN_DEPRECATED const unsigned int AlignedBit = 0x80;
+      |                                     ^~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/include/Atlas.h:27,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:25,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h: In constructor ‘ORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>)’:
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21: warning: ‘ORB_SLAM3::KannalaBrandt8::precision’ will be initialized after [-Wreorder]
+  102 |         const float precision;
+      |                     ^~~~~~~~~
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26: warning:   ‘std::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea’ [-Wreorder]
+   88 |         std::vector<int> mvLappingArea;
+      |                          ^~~~~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/include/Atlas.h:27,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:25,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:47:9: warning:   when initialized here [-Wreorder]
+   47 |         KannalaBrandt8(const std::vector<float> _vParameters) : GeometricCamera(_vParameters), precision(1e-6), mvLappingArea(2,0) ,tvr(nullptr) {
+      |         ^~~~~~~~~~~~~~
+In file included from /opt/slam-study/ORB_SLAM3/include/Atlas.h:27,
+                 from /opt/slam-study/ORB_SLAM3/include/FrameDrawer.h:25,
+                 from /opt/slam-study/ORB_SLAM3/include/Viewer.h:23,
+                 from /opt/slam-study/ORB_SLAM3/include/Tracking.h:26,
+                 from /opt/slam-study/ORB_SLAM3/include/System.h:31,
+                 from /opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:30:
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h: In constructor ‘ORB_SLAM3::KannalaBrandt8::KannalaBrandt8(std::vector<float>, float)’:
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21: warning: ‘ORB_SLAM3::KannalaBrandt8::precision’ will be initialized after [-Wreorder]
+  102 |         const float precision;
+      |                     ^~~~~~~~~
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26: warning:   ‘std::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea’ [-Wreorder]
+   88 |         std::vector<int> mvLappingArea;
+      |                          ^~~~~~~~~~~~~
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:53:9: warning:   when initialized here [-Wreorder]
+   53 |         KannalaBrandt8(const std::vector<float> _vParameters, const float _precision) : GeometricCamera(_vParameters),
+      |         ^~~~~~~~~~~~~~
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h: In constructor ‘ORB_SLAM3::KannalaBrandt8::KannalaBrandt8(ORB_SLAM3::KannalaBrandt8*)’:
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:102:21: warning: ‘ORB_SLAM3::KannalaBrandt8::precision’ will be initialized after [-Wreorder]
+  102 |         const float precision;
+      |                     ^~~~~~~~~
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:88:26: warning:   ‘std::vector<int> ORB_SLAM3::KannalaBrandt8::mvLappingArea’ [-Wreorder]
+   88 |         std::vector<int> mvLappingArea;
+      |                          ^~~~~~~~~~~~~
+/opt/slam-study/ORB_SLAM3/include/CameraModels/KannalaBrandt8.h:59:9: warning:   when initialized here [-Wreorder]
+   59 |         KannalaBrandt8(KannalaBrandt8* pKannala) : GeometricCamera(pKannala->mvParameters), precision(pKannala->precision), mvLappingArea(2,0) ,tvr(nullptr) {
+      |         ^~~~~~~~~~~~~~
+/opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc: In function ‘int main(int, char**)’:
+/opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:141:16: warning: unused variable ‘t_rect’ [-Wunused-variable]
+  141 |         double t_rect = 0.f;
+      |                ^~~~~~
+/opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:142:16: warning: unused variable ‘t_resize’ [-Wunused-variable]
+  142 |         double t_resize = 0.f;
+      |                ^~~~~~~~
+/opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:143:16: warning: unused variable ‘t_track’ [-Wunused-variable]
+  143 |         double t_track = 0.f;
+      |                ^~~~~~~
+/opt/slam-study/experiments/quality_capture_v2_20260918/stereo_inertial_quality.cc:144:13: warning: unused variable ‘num_rect’ [-Wunused-variable]
+  144 |         int num_rect = 0;
+      |             ^~~~~~~~

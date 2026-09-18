@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/opt/slam-study/experiments/direction1_gate_20260917/repeat_check/V103/V103_slam_tum.txt",
+    "sha256": "a4c8ec59e5e52bf49bcfaaefd212583c91ce84fdbc5ed35f0139cb74e6f765f5"
+  },
+  {
+    "path": "/opt/slam-study/datasets/V103/mav0/state_groundtruth_estimate0/data.csv",
+    "sha256": "703ba51a854daba80f20df93e76605c2278b3f227afe2bcbe9eb4255186fc3d9"
+  },
+  {
+    "path": "/opt/slam-study/datasets/V103/mav0/cam0/sensor.yaml",
+    "sha256": "191748edddda5d1368188f5b0a3c4bed6c48842c178ef9d83c50cba17d66e819"
+  },
+  {
+    "path": "/opt/slam-study/datasets/V103/mav0/imu0/data.csv",
+    "sha256": "543835f7b7dd9d1287c9052955e030ade113c51dc97ec2c15d13a318521ad0d7"
+  },
+  {
+    "path": "/opt/slam-study/experiments/direction1_gate_20260917/repeat_check/V103/frame_signals.csv",
+    "sha256": "0c3434d13cfb00cc2fa88621348659d51b6b0ff3fd058abf79b8aa411fd48a0a"
+  },
+  {
+    "path": "/opt/slam-study/experiments/direction1_gate_20260917/repeat_check/V103/online_state.csv",
+    "sha256": "e88a03c63212b28bf1f949202e31608fd2cfb73ab3e2a3db532a53d45e7a0873"
+  }
+]

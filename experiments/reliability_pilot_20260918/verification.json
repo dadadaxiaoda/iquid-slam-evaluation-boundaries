@@ -1,0 +1,24 @@
+{
+  "labels_recomputed": true,
+  "inputs_unchanged": true,
+  "diagnostics": {
+    "V101": {
+      "median_error_cm": 3.940382713920463,
+      "p90_error_cm": 7.096669136726715,
+      "max_error_cm": 87.8995190999056,
+      "positives_verified": 51
+    },
+    "V201": {
+      "median_error_cm": 1.0993590490866711,
+      "p90_error_cm": 2.007328581672676,
+      "max_error_cm": 13.231174847395128,
+      "positives_verified": 4
+    },
+    "V202": {
+      "median_error_cm": 1.4745160455197321,
+      "p90_error_cm": 3.0114967280975047,
+      "max_error_cm": 280.80967413125614,
+      "positives_verified": 8
+    }
+  }
+}

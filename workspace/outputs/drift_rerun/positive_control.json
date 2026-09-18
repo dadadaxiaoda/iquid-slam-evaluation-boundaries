@@ -1,0 +1,18 @@
+[
+  {
+    "model": "MLP",
+    "synthetic_test_r2": 0.9974546432495117,
+    "epochs": 180,
+    "n_train": 400,
+    "n_val": 100,
+    "n_test": 100
+  },
+  {
+    "model": "CfC_time_head",
+    "synthetic_test_r2": 0.958854615688324,
+    "epochs": 123,
+    "n_train": 400,
+    "n_val": 100,
+    "n_test": 100
+  }
+]

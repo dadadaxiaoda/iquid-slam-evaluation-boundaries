@@ -1,0 +1,9 @@
+{
+  "batch_shape": [
+    4,
+    3
+  ],
+  "time_model_change": 0.05320283770561218,
+  "fixed_model_change": 0.0,
+  "passed": true
+}

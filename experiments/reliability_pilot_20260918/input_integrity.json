@@ -1,0 +1,13 @@
+{
+  "/opt/slam-study/experiments/reliability_pilot_20260918/V101/online.csv": true,
+  "/opt/slam-study/datasets/V101/mav0/state_groundtruth_estimate0/data.csv": true,
+  "/opt/slam-study/datasets/V101/mav0/imu0/data.csv": true,
+  "/opt/slam-study/ORB_SLAM3/Examples/Stereo-Inertial/EuRoC.yaml": true,
+  "/opt/slam-study/experiments/reliability_pilot_20260918/rectification.json": true,
+  "/opt/slam-study/experiments/reliability_pilot_20260918/V201/online.csv": true,
+  "/opt/slam-study/datasets/V201/mav0/state_groundtruth_estimate0/data.csv": true,
+  "/opt/slam-study/datasets/V201/mav0/imu0/data.csv": true,
+  "/opt/slam-study/experiments/reliability_pilot_20260918/V202/online.csv": true,
+  "/opt/slam-study/datasets/V202/mav0/state_groundtruth_estimate0/data.csv": true,
+  "/opt/slam-study/datasets/V202/mav0/imu0/data.csv": true
+}

@@ -1,0 +1,11 @@
+{
+  "candidate_fit_rows": 3111,
+  "gate_train_rows": 1894,
+  "validation_rows": 2339,
+  "physical_gate": 0.25,
+  "ridge_reg": 10000,
+  "validation_objective": "mean per-part error normalized by Zero baseline, normal and severe equally represented",
+  "test_status": "V103 future and V202 are previously inspected exploratory diagnostics, not fresh validation",
+  "signals": "40 observations motion/IMU consistency plus observed-only summary; no mismatched VI quality logs",
+  "oracle_fraction_positive": 0.8120380147835269
+}

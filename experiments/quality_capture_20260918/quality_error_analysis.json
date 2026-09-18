@@ -1,0 +1,273 @@
+{
+  "scope": "Single V202 replay, exploratory descriptive diagnostics; no training, tuning, or independent performance claim.",
+  "threshold_m": 0.07096669136726715,
+  "threshold_source": "Frozen earlier V101 training threshold; unchanged.",
+  "history_seconds": 2,
+  "future_seconds": 1,
+  "window_stride_seconds": 0.25,
+  "windows": 395,
+  "positive_windows": 9,
+  "episodes": [
+    {
+      "positive_windows": 4,
+      "first_forecast_offset_s": 17.950000047683716,
+      "last_forecast_offset_s": 18.700000047683716,
+      "largest_step_input_id": 376,
+      "largest_step_offset_s": 18.800000190734863,
+      "largest_step_error_cm": 542.7550204544164,
+      "max_future_1s_error_cm": 542.8069486265719,
+      "same_step_final_export_error_cm": 0.5068376405376894,
+      "max_same_window_final_export_error_cm": 1.2276593180975741,
+      "context_crossing": false,
+      "map_update_crossing": true,
+      "already_high_error_windows": 0,
+      "quality_before_largest_step": {
+        "low_inlier_fraction": {
+          "median_previous_1s": -0.31334995044672465,
+          "badness_percentile_vs_same_replay_normal": 71.84986595174263,
+          "median_1_to_half_second_before": -0.3233602630563426,
+          "median_last_half_second_before": -0.31334995044672465
+        },
+        "high_reprojection_p90": {
+          "median_previous_1s": 3.5202959352920002,
+          "badness_percentile_vs_same_replay_normal": 52.54691689008043,
+          "median_1_to_half_second_before": 3.489076168373,
+          "median_last_half_second_before": 3.5350949683920003
+        },
+        "low_grid_coverage": {
+          "median_previous_1s": -0.5625,
+          "badness_percentile_vs_same_replay_normal": 93.8337801608579,
+          "median_1_to_half_second_before": -0.5729166666665,
+          "median_last_half_second_before": -0.541666666667
+        },
+        "low_depth_fraction": {
+          "median_previous_1s": -0.6757302526535001,
+          "badness_percentile_vs_same_replay_normal": 10.723860589812332,
+          "median_1_to_half_second_before": -0.6518002807054999,
+          "median_last_half_second_before": -0.6769101212649999
+        },
+        "high_imu_rotation_residual": {
+          "median_previous_1s": 0.000169568142,
+          "badness_percentile_vs_same_replay_normal": 64.25855513307985,
+          "median_1_to_half_second_before": 0.0001460710625,
+          "median_last_half_second_before": 0.000169568142
+        }
+      }
+    },
+    {
+      "positive_windows": 1,
+      "first_forecast_offset_s": 44.200000047683716,
+      "last_forecast_offset_s": 44.200000047683716,
+      "largest_step_input_id": 901,
+      "largest_step_offset_s": 45.049999952316284,
+      "largest_step_error_cm": 11.355263104168344,
+      "max_future_1s_error_cm": 9.98845331904258,
+      "same_step_final_export_error_cm": 0.15931432544996288,
+      "max_same_window_final_export_error_cm": 1.2590151757049322,
+      "context_crossing": true,
+      "map_update_crossing": true,
+      "already_high_error_windows": 0,
+      "quality_before_largest_step": {
+        "low_inlier_fraction": {
+          "median_previous_1s": -0.31062009224564946,
+          "badness_percentile_vs_same_replay_normal": 73.7265415549598,
+          "median_1_to_half_second_before": -0.27551967831903124,
+          "median_last_half_second_before": -0.3230585211275112
+        },
+        "high_reprojection_p90": {
+          "median_previous_1s": 3.508051048735,
+          "badness_percentile_vs_same_replay_normal": 51.474530831099194,
+          "median_1_to_half_second_before": 3.4797899651565,
+          "median_last_half_second_before": 3.6044699569764997
+        },
+        "low_grid_coverage": {
+          "median_previous_1s": -0.46875,
+          "badness_percentile_vs_same_replay_normal": 96.7828418230563,
+          "median_1_to_half_second_before": -0.416666666667,
+          "median_last_half_second_before": -0.4895833333335
+        },
+        "low_depth_fraction": {
+          "median_previous_1s": -0.6798723665090001,
+          "badness_percentile_vs_same_replay_normal": 9.919571045576408,
+          "median_1_to_half_second_before": -0.6677741299115001,
+          "median_last_half_second_before": -0.681756309459
+        },
+        "high_imu_rotation_residual": {
+          "median_previous_1s": 0.00015657062650000002,
+          "badness_percentile_vs_same_replay_normal": 60.07604562737643,
+          "median_1_to_half_second_before": 0.00015915632,
+          "median_last_half_second_before": 0.000150925305
+        }
+      }
+    },
+    {
+      "positive_windows": 4,
+      "first_forecast_offset_s": 44.700000047683716,
+      "last_forecast_offset_s": 45.450000047683716,
+      "largest_step_input_id": 912,
+      "largest_step_offset_s": 45.60000014305115,
+      "largest_step_error_cm": 23.136402938716895,
+      "max_future_1s_error_cm": 24.722268139787353,
+      "same_step_final_export_error_cm": 0.3289748844153186,
+      "max_same_window_final_export_error_cm": 1.4914365629758801,
+      "context_crossing": true,
+      "map_update_crossing": true,
+      "already_high_error_windows": 1,
+      "quality_before_largest_step": {
+        "low_inlier_fraction": {
+          "median_previous_1s": -0.34595183078563807,
+          "badness_percentile_vs_same_replay_normal": 54.42359249329759,
+          "median_1_to_half_second_before": -0.32748539945875466,
+          "median_last_half_second_before": -0.3821038348006714
+        },
+        "high_reprojection_p90": {
+          "median_previous_1s": 3.5679451636820003,
+          "badness_percentile_vs_same_replay_normal": 56.56836461126006,
+          "median_1_to_half_second_before": 3.5679451636820003,
+          "median_last_half_second_before": 3.5709479236545
+        },
+        "low_grid_coverage": {
+          "median_previous_1s": -0.5625,
+          "badness_percentile_vs_same_replay_normal": 93.8337801608579,
+          "median_1_to_half_second_before": -0.5104166666665,
+          "median_last_half_second_before": -0.604166666667
+        },
+        "low_depth_fraction": {
+          "median_previous_1s": -0.692745876742,
+          "badness_percentile_vs_same_replay_normal": 8.579088471849866,
+          "median_1_to_half_second_before": -0.684144918115,
+          "median_last_half_second_before": -0.7023426658805
+        },
+        "high_imu_rotation_residual": {
+          "median_previous_1s": 0.000168033017,
+          "badness_percentile_vs_same_replay_normal": 62.737642585551335,
+          "median_1_to_half_second_before": 0.000159479161,
+          "median_last_half_second_before": 0.000169632272
+        }
+      }
+    }
+  ],
+  "all_eligible_error": {
+    "count": 395,
+    "median_cm": 1.5536464644007257,
+    "p90_cm": 3.0731664076306715,
+    "rmse_cm": 54.64142553461233,
+    "max_cm": 542.8069486265719
+  },
+  "without_future_big_context_change_error": {
+    "count": 389,
+    "median_cm": 1.5414597385739253,
+    "p90_cm": 2.9957275324641106,
+    "rmse_cm": 55.009926166347,
+    "max_cm": 542.8069486265719
+  },
+  "same_window_final_export_error": {
+    "count": 395,
+    "median_cm": 0.9455582102612522,
+    "p90_cm": 1.752981121327011,
+    "rmse_cm": 1.1687208414721364,
+    "max_cm": 3.6742555257248504
+  },
+  "windows_without_any_future_map_update": 0,
+  "error_without_any_future_map_update": null,
+  "positive_future_context_crossing": 5,
+  "positive_future_map_update_crossing": 9,
+  "positive_already_high_error": 1,
+  "clean_forecast_windows": 377,
+  "clean_forecast_positive_windows": 4,
+  "quality_rules": {
+    "low_inlier_fraction": {
+      "all_windows": {
+        "available_windows": 395,
+        "positive_windows": 9,
+        "prevalence": 0.02278481012658228,
+        "auroc": 0.6101036269430051,
+        "average_precision": 0.03717013421055885
+      },
+      "clean_forecast_windows": {
+        "available_windows": 377,
+        "positive_windows": 4,
+        "prevalence": 0.010610079575596816,
+        "auroc": 0.517426273458445,
+        "average_precision": 0.01461612369494743
+      }
+    },
+    "high_reprojection_p90": {
+      "all_windows": {
+        "available_windows": 395,
+        "positive_windows": 9,
+        "prevalence": 0.02278481012658228,
+        "auroc": 0.3474381116868164,
+        "average_precision": 0.01815543469292286
+      },
+      "clean_forecast_windows": {
+        "available_windows": 377,
+        "positive_windows": 4,
+        "prevalence": 0.010610079575596816,
+        "auroc": 0.2620643431635389,
+        "average_precision": 0.008580044774353089
+      }
+    },
+    "low_grid_coverage": {
+      "all_windows": {
+        "available_windows": 395,
+        "positive_windows": 9,
+        "prevalence": 0.02278481012658228,
+        "auroc": 0.943580886586068,
+        "average_precision": 0.18618306196539056
+      },
+      "clean_forecast_windows": {
+        "available_windows": 377,
+        "positive_windows": 4,
+        "prevalence": 0.010610079575596816,
+        "auroc": 0.9343163538873994,
+        "average_precision": 0.09344812164579606
+      }
+    },
+    "low_depth_fraction": {
+      "all_windows": {
+        "available_windows": 395,
+        "positive_windows": 9,
+        "prevalence": 0.02278481012658228,
+        "auroc": 0.11456534254461716,
+        "average_precision": 0.014125796734432396
+      },
+      "clean_forecast_windows": {
+        "available_windows": 377,
+        "positive_windows": 4,
+        "prevalence": 0.010610079575596816,
+        "auroc": 0.128686327077748,
+        "average_precision": 0.007569466007655495
+      }
+    },
+    "high_imu_rotation_residual": {
+      "all_windows": {
+        "available_windows": 395,
+        "positive_windows": 9,
+        "prevalence": 0.02278481012658228,
+        "auroc": 0.5886586067933218,
+        "average_precision": 0.030978649263702245
+      },
+      "clean_forecast_windows": {
+        "available_windows": 377,
+        "positive_windows": 4,
+        "prevalence": 0.010610079575596816,
+        "auroc": 0.5067024128686327,
+        "average_precision": 0.018682343237920986
+      }
+    }
+  },
+  "map_big_change_offsets_s": [
+    45.10000014305115,
+    45.60000014305115
+  ],
+  "notes": [
+    "Future ground truth and map-change flags are used only for label diagnostics, not prediction inputs.",
+    "Final exported trajectory uses later optimization; used only to diagnose jumps, not as online input or validated risk label.",
+    "Clean forecast diagnostic excludes windows already in high error and those crossing big context changes; it is a retrospective subset.",
+    "Quality percentiles use post-hoc same-replay normal reference and are not validated deployment thresholds.",
+    "Map update counters do not establish causation or uniquely classify BA/loop corrections.",
+    "Largest-step anchor is selected with GT after the run; before-anchor comparisons alone do not prove predictive lead.",
+    "Overlapping windows and very few episodes cannot support reliable neural-model comparisons."
+  ]
+}

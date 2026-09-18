@@ -1,0 +1,5 @@
+ORB-SLAM3 source retains its original copyright and GPLv3 notices.
+Upstream: https://github.com/UZ-SLAMLab/ORB_SLAM3
+The included source snapshot has local instrumentation; no exact upstream tag is asserted.
+New experiment and instrumentation code is distributed under GPLv3.
+ncps is used as an external dependency, not redistributed here.
